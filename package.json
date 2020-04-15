@@ -22,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/himelbrand/react-native-ble-peripheral/issues"
   },
-  "homepage": "https://github.com/himelbrand/react-native-ble-peripheral#readme"
+  "homepage": "https://github.com/himelbrand/react-native-ble-peripheral#readme",
+  "dependencies": {
+    "react": "16.9.0",
+    "react-native": "0.61.5"
+  }
 }
